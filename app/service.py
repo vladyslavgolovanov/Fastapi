@@ -1,4 +1,4 @@
-from core.db import database
+from src.core.db import database
 from .models import users
 from .shemas import UserBase, UserPassword
 
